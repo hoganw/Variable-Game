@@ -1,0 +1,16 @@
+#Greenfoot properties
+#Fri Jul 06 07:45:56 PDT 2018
+class.IntGoal.superclass=Goal
+class.DoubleGoal.superclass=Goal
+class.VariableActor.superclass=greenfoot.Actor
+mainWindow.width=850
+class.Variable.superclass=
+class.Goal.superclass=greenfoot.Actor
+class.MyWorld.superclass=greenfoot.World
+project.charset=UTF-8
+version=3.0.0
+class.StringGoal.superclass=Goal
+world.lastInstantiated=MyWorld
+mainWindow.y=40
+mainWindow.x=40
+mainWindow.height=600
